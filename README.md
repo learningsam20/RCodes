@@ -31,3 +31,4 @@ It produces following datasets of relevance.
  -> fcombined: This is a dataset containing the data combined for test as well as training observations
  -> fstdmean: This dataset consists of data only for std deviation and mean variables as requested in the assignment
  -> dstmeanframe: This is a dataset containing average of all std deviation and mean observations for a given subject and activity
+-> YourBaseFolder\\meandata.txt : This is a comma separated text file with the dataframe dstmeanframe
