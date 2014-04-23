@@ -6,6 +6,9 @@ This repository consists of R Code Snippets developed by me
 Here is a description of various snippets available
 1. run_analysis.R
 
+Location: 
+ -> https://github.com/learningsam20/RCodes/blob/master/run_analysis.R
+
 Description:
  -> This script processes the data for observations on test and training front provided as part of the data cleansing assignment.
 
